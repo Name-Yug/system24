@@ -45,9 +45,9 @@
 	--txt-3: oklch(40% 0 0); /* color of muted text. */
 
 	/* accent colors */
-	--acc-0: var(--purple); /* main accent color. */
-	--acc-1: var(--purple-1); /* color of accent buttons when hovered. */
-	--acc-2: var(--purple-2); /* color of accent buttons when clicked. */
+	--acc-0: var(--pink); /* main accent color. */
+	--acc-1: var(--pink-1); /* color of accent buttons when hovered. */
+	--acc-2: var(--pink-2); /* color of accent buttons when clicked. */
 
 	/* borders */
 	--border-width: 2px; /* panel border thickness. */
@@ -70,15 +70,15 @@
 	--reply-hover-overlay: var(--hover); /* overlay color of message you are replying to when hovered. */
 
 	/* color shades */
-	--pink: oklch(73% 0.12 0);
-	--pink-1: oklch(63% 0.12 0);
-	--pink-2: oklch(53% 0.12 0);
-	--purple: oklch(73% 0.12 300);
+	--pink: oklch(62.8% 0.25768330773615683 29.2338851923426);
+	--pink-1: oklch(52.8% 0.25768330773615683 29.2338851923426);
+	--pink-2: oklch(42.8% 0.25768330773615683 29.2338851923426);
+	--purple: oklch(56.55% 0.2741 306.39);
 	--purple-1: oklch(63% 0.12 300);
 	--purple-2: oklch(53% 0.12 300);
-	--cyan: oklch(73% 0.12 200);
-	--yellow: oklch(78% 0.12 80);
-	--green: oklch(73% 0.12 160);
+	--cyan: oklch(90.54% 0.1545 194.77);
+	--yellow: oklch(96.8% 0.21095439261133309 109.76923207652135);
+	--green: oklch(86.64% 0.2947552610302938 142.49533888780996);
 	--green-1: oklch(63% 0.12 160);
 	--green-2: oklch(53% 0.12 160);
 }
